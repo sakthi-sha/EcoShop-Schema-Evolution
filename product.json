@@ -1,0 +1,34 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Bamboo Bottle",
+    "category": "Home",
+    "price": 250,
+    "stock_quantity": 50,
+    "material_type": "Bamboo"
+  },
+  {
+    "product_id": 2,
+    "product_name": "Cotton Bag",
+    "category": "Accessories",
+    "price": 120,
+    "stock_quantity": 100,
+    "material_type": "Cotton"
+  },
+  {
+    "product_id": 3,
+    "product_name": "Wooden Brush",
+    "category": "Personal Care",
+    "price": 80,
+    "stock_quantity": 75,
+    "material_type": "Wood"
+  },
+  {
+    "product_id": 4,
+    "product_name": "Steel Lunch Box",
+    "category": "Kitchen",
+    "price": 350,
+    "stock_quantity": 40,
+    "material_type": "Stainless Steel"
+  }
+]
